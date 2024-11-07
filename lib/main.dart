@@ -35,12 +35,12 @@ class MyApp extends StatelessWidget {
             ),
           ],
         ),
-        // body: const Center(
-        //   child: Text(
-        //     "Hello friends, my name is Flutter!",
-        //     style: TextStyle(fontSize: 20),
-        //   ),
-        // ),
+        body: const Center(
+          child: Text(
+            "Hello friends, my name is Flutter!",
+            style: TextStyle(fontSize: 20),
+          ),
+        ),
       ),
     );
   }
